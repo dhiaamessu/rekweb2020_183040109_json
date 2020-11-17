@@ -1,0 +1,10 @@
+{
+    "nama" : "Ardhia Pramesti",
+    "umur" : 20,
+    "nrp" : "183040109",
+    "lulus" : true,
+    "hobby" : [
+        "jalan kaki",
+        "teriak-teriak"
+    ]
+}
